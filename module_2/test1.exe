@@ -1,0 +1,56 @@
+Que 1. What is Inheritance?
+Ans.   Inheritance is defined as the process in which one class derive the properties and 
+       characteristics of another class. 
+
+Que 2. Which inheritance is not supported by Dart? Why?
+Ans.   Multiple Inheritance is not supported by dart.
+       Because
+
+Que 3. What is advantage of inheritance?
+Ans.   Reusability
+       save time effort
+       Data Hiding
+       Easy to understand
+       Reliability
+       Maintainability
+
+Que 4. Difference between inheritance and encapsulation.
+Ans.   Inheritance: 
+             Inheritance is a mechanism that allows one class to inherit properties and methods 
+from another class. 
+             It is used to create a hierachy of classes, where a subclass can inherit the attributes 
+and behavior of its superclass.
+
+       Encapsulation :
+           Encapsulation is a mechanism that allows an object to hide its internal state and 
+behavior from other objects. 
+           It is used to protect the data of an object from being accessed or modified by other objects.
+
+Que 5. Difference between inheritance and abstraction.
+Ans.   Inheritance :
+              Methodology of creating a new class using the properties and methods of an existing class.
+              Helps to improve code resuability.
+       abstraction :
+              OOP concepts the hides the implementation details and shows only the functionalityto the user.
+              Helps to reduce the complexity of the code.
+       
+Que 6. Difference between inheritance and polymorphism.
+Ans.   Inheritance :
+              Inheritance is one in which a new class is created that inherits the features from the already
+existing class.
+              It is basically applied to classes.
+              It is used in pattern designing.
+       Polymorphism :
+             Whereas polymorphism is that which can be defined in multiple forms.
+             Whereas it is basically applied to functions or methods.
+             While it is also used in pattern designing.
+
+Que 7. Can we override static method in Dart? 
+Ans.   No we cannot override static method in dart because the two static method you declared there are in 
+fact two Different static method not the same overriden one.
+
+Que 8. Can we overload static method in Dart?
+Ans.   No we can not overload static method in Dart.
+
+Que 9. Can a class implement more than one interface?
+Ans.   
